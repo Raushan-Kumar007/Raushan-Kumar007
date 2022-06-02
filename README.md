@@ -11,5 +11,5 @@
 - ⚡ Fun fact: Practice makes a man perfect.
 
 
-<img src"https://github-readme-stats.vercel.app/api?username=Raushan-Kumar007&theme=vue-dark&show_icons=true">
+ https://github-readme-stats.vercel.app/api?username=Raushan-Kumar007&theme=vue-dark&show_icons=true
 
