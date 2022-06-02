@@ -9,3 +9,7 @@
   Instagram @Raushan[https://www.instagram.com/_raushan007_/?hl=en]
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Practice makes a man perfect.
+
+
+<img src"https://github-readme-stats.vercel.app/api?username=Raushan-Kumar007&theme=vue-dark&show_icons=true">
+
