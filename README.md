@@ -11,5 +11,11 @@
 - ⚡ Fun fact: Practice makes a man perfect.
 
 
- https://github-readme-stats.vercel.app/api?username=Raushan-Kumar007&theme=vue-dark&show_icons=true
-
+<h3>GitHub Stats Card</h3>
+ <ul>
+  <li>https://github-readme-stats.vercel.app/api?username=Raushan-Kumar007&theme=vue-dark&show_icons=true</li>
+</ul>
+<h3>Top Languages Card</h3>
+  <ul>
+  <li>https://github-readme-stats.vercel.app/api/top-langs/?username=Raushan-Kumar007&layout=compact(https://github.com/Raushan-Kumar007/github-readme-stats)</li>
+</ul>
