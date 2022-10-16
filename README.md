@@ -1,5 +1,5 @@
- ![MasterHead](width="500" https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
-<h1 align="center">Hi 👋, I'm Raushan Kumar</h1>
+ ![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Raushan+Kumar)](https://git.io/typing-svg)
 <h3 align="center">A passionate full stack web developer from India</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
 - 🌱 I’m currently learning **ReactJs,Spring**
